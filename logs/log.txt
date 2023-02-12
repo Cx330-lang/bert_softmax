@@ -1,0 +1,491 @@
+2022-08-07 22:04:49,684 - %(levlname)s - trian_data_size:50000
+2022-08-07 22:04:49,685 - %(levlname)s - eval_data_size:5000
+2022-08-07 22:06:08,886 - %(levlname)s - trian_data_size:50000
+2022-08-07 22:06:08,887 - %(levlname)s - eval_data_size:5000
+2022-08-07 22:06:08,887 - %(levlname)s - label numbers:4999
+2022-08-07 22:08:20,374 - %(levlname)s - trian_data_size:50000
+2022-08-07 22:08:20,374 - %(levlname)s - eval_data_size:5000
+2022-08-07 22:08:20,375 - %(levlname)s - label numbers:4999
+2022-08-07 22:23:14,271 - %(levlname)s - trian_data_size:50000
+2022-08-07 22:23:14,271 - %(levlname)s - eval_data_size:5000
+2022-08-07 22:23:14,272 - %(levlname)s - label numbers:4999
+2022-08-07 22:23:42,374 - %(levlname)s - trian_data_size:50000
+2022-08-07 22:23:42,375 - %(levlname)s - eval_data_size:5000
+2022-08-07 22:23:42,376 - %(levlname)s - label numbers:4999
+2022-08-07 22:25:43,705 - %(levlname)s - trian_data_size:50000
+2022-08-07 22:25:43,706 - %(levlname)s - eval_data_size:5000
+2022-08-07 22:25:43,707 - %(levlname)s - label numbers:4999
+2022-08-07 22:29:38,780 - %(levlname)s - trian_data_size:50000
+2022-08-07 22:29:38,780 - %(levlname)s - eval_data_size:5000
+2022-08-07 22:29:38,781 - %(levlname)s - label numbers:4999
+2022-08-07 22:30:46,079 - %(levlname)s - trian_data_size:50000
+2022-08-07 22:30:46,080 - %(levlname)s - eval_data_size:5000
+2022-08-07 22:30:46,081 - %(levlname)s - label numbers:4999
+2022-08-07 22:32:57,633 - %(levlname)s - trian_data_size:50000
+2022-08-07 22:32:57,633 - %(levlname)s - eval_data_size:5000
+2022-08-07 22:32:57,634 - %(levlname)s - label numbers:4999
+2022-08-07 22:45:13,470 - %(levlname)s - trian_data_size:50000
+2022-08-07 22:45:13,470 - %(levlname)s - eval_data_size:5000
+2022-08-07 22:45:13,471 - %(levlname)s - label numbers:10
+2022-08-07 23:15:26,995 - %(levlname)s - trian_data_size:50000
+2022-08-07 23:15:26,995 - %(levlname)s - eval_data_size:5000
+2022-08-07 23:15:26,995 - %(levlname)s - label numbers:10
+2022-08-07 23:30:02,469 - %(levlname)s - trian_data_size:50000
+2022-08-07 23:30:02,469 - %(levlname)s - eval_data_size:5000
+2022-08-07 23:30:02,469 - %(levlname)s - label numbers:10
+2022-08-08 21:02:55,937 - %(levlname)s - trian_data_size:50000
+2022-08-08 21:02:55,937 - %(levlname)s - eval_data_size:5000
+2022-08-08 21:02:55,937 - %(levlname)s - label numbers:10
+2022-08-08 22:07:06,908 - %(levlname)s - trian_data_size:50000
+2022-08-08 22:07:06,908 - %(levlname)s - eval_data_size:5000
+2022-08-08 22:07:06,908 - %(levlname)s - label numbers:10
+2022-08-08 22:22:41,313 - %(levlname)s - trian_data_size:50000
+2022-08-08 22:22:41,313 - %(levlname)s - eval_data_size:5000
+2022-08-08 22:22:41,314 - %(levlname)s - label numbers:10
+2022-08-08 22:35:46,131 - %(levlname)s - trian_data_size:50000
+2022-08-08 22:35:46,131 - %(levlname)s - eval_data_size:5000
+2022-08-08 22:35:46,131 - %(levlname)s - label numbers:10
+2022-08-08 22:41:58,135 - %(levlname)s - trian_data_size:50000
+2022-08-08 22:41:58,135 - %(levlname)s - eval_data_size:5000
+2022-08-08 22:41:58,135 - %(levlname)s - label numbers:10
+2022-08-08 22:42:19,537 - %(levlname)s - init bert model params
+2022-08-08 22:42:19,539 - %(levlname)s - init bert model params done
+2022-08-08 22:47:56,232 - %(levlname)s - trian_data_size:50000
+2022-08-08 22:47:56,232 - %(levlname)s - eval_data_size:5000
+2022-08-08 22:47:56,232 - %(levlname)s - label numbers:10
+2022-08-08 22:48:10,233 - %(levlname)s - init bert model params
+2022-08-08 22:48:10,235 - %(levlname)s - init bert model params done
+2022-08-08 22:48:16,170 - %(levlname)s - ----- epoch1/30 -----
+2022-08-09 08:36:43,158 - %(levlname)s - trian_data_size:50000
+2022-08-09 08:36:43,158 - %(levlname)s - eval_data_size:5000
+2022-08-09 08:36:43,158 - %(levlname)s - label numbers:10
+2022-08-09 08:37:01,388 - %(levlname)s - init bert model params
+2022-08-09 08:37:01,390 - %(levlname)s - init bert model params done
+2022-08-09 08:37:06,684 - %(levlname)s - ----- epoch1/30 -----
+2022-08-09 08:43:41,262 - %(levlname)s - trian_data_size:50000
+2022-08-09 08:43:41,262 - %(levlname)s - eval_data_size:5000
+2022-08-09 08:43:41,262 - %(levlname)s - label numbers:10
+2022-08-09 08:43:54,986 - %(levlname)s - init bert model params
+2022-08-09 08:43:54,987 - %(levlname)s - init bert model params done
+2022-08-09 08:44:00,051 - %(levlname)s - ----- epoch1/30 -----
+2022-08-09 09:04:26,435 - %(levlname)s - trian_data_size:50000
+2022-08-09 09:04:26,435 - %(levlname)s - eval_data_size:5000
+2022-08-09 09:04:26,435 - %(levlname)s - label numbers:10
+2022-08-09 09:04:39,963 - %(levlname)s - init bert model params
+2022-08-09 09:04:39,965 - %(levlname)s - init bert model params done
+2022-08-09 09:04:44,961 - %(levlname)s - ----- epoch1/30 -----
+2022-08-09 09:12:59,973 - %(levlname)s - trian_data_size:50000
+2022-08-09 09:12:59,973 - %(levlname)s - eval_data_size:5000
+2022-08-09 09:12:59,973 - %(levlname)s - label numbers:10
+2022-08-09 09:13:13,421 - %(levlname)s - init bert model params
+2022-08-09 09:13:13,422 - %(levlname)s - init bert model params done
+2022-08-09 09:13:18,387 - %(levlname)s - ----- epoch1/30 -----
+2022-08-09 23:08:18,553 - %(levlname)s - trian_data_size:50000
+2022-08-09 23:08:18,553 - %(levlname)s - eval_data_size:5000
+2022-08-09 23:08:18,553 - %(levlname)s - label numbers:10
+2022-08-09 23:08:32,629 - %(levlname)s - init bert model params
+2022-08-09 23:08:32,631 - %(levlname)s - init bert model params done
+2022-08-09 23:08:37,493 - %(levlname)s - ----- epoch1/30 -----
+2022-08-10 09:13:33,937 - %(levlname)s - trian_data_size:50000
+2022-08-10 09:13:33,937 - %(levlname)s - eval_data_size:5000
+2022-08-10 09:13:33,937 - %(levlname)s - label numbers:10
+2022-08-10 09:13:52,117 - %(levlname)s - init bert model params
+2022-08-10 09:20:12,616 - %(levlname)s - trian_data_size:50000
+2022-08-10 09:20:12,616 - %(levlname)s - eval_data_size:5000
+2022-08-10 09:20:12,616 - %(levlname)s - label numbers:10
+2022-08-10 09:20:25,977 - %(levlname)s - init bert model params
+2022-08-10 09:20:26,630 - %(levlname)s - init bert model params done
+2022-08-10 09:20:36,184 - %(levlname)s - ----- epoch1/30 -----
+2022-08-10 22:17:10,620 - %(levlname)s - trian_data_size:50000
+2022-08-10 22:17:10,620 - %(levlname)s - eval_data_size:5000
+2022-08-10 22:17:10,620 - %(levlname)s - label numbers:10
+2022-08-10 22:17:23,928 - %(levlname)s - init bert model params
+2022-08-10 22:17:24,605 - %(levlname)s - init bert model params done
+2022-08-10 22:17:29,924 - %(levlname)s - ----- epoch1/30 -----
+2022-08-10 22:25:37,478 - %(levlname)s - trian_data_size:50000
+2022-08-10 22:25:37,478 - %(levlname)s - eval_data_size:5000
+2022-08-10 22:25:37,478 - %(levlname)s - label numbers:10
+2022-08-10 22:25:50,768 - %(levlname)s - init bert model params
+2022-08-10 22:25:51,423 - %(levlname)s - init bert model params done
+2022-08-10 22:25:56,577 - %(levlname)s - ----- epoch1/30 -----
+2022-08-10 22:30:39,556 - %(levlname)s - trian_data_size:50000
+2022-08-10 22:30:39,557 - %(levlname)s - eval_data_size:5000
+2022-08-10 22:30:39,557 - %(levlname)s - label numbers:10
+2022-08-10 22:30:53,264 - %(levlname)s - init bert model params
+2022-08-10 22:30:53,910 - %(levlname)s - init bert model params done
+2022-08-10 22:30:58,972 - %(levlname)s - ----- epoch1/30 -----
+2022-08-10 22:37:20,596 - %(levlname)s - trian_data_size:50000
+2022-08-10 22:37:20,596 - %(levlname)s - eval_data_size:5000
+2022-08-10 22:37:20,596 - %(levlname)s - label numbers:10
+2022-08-10 22:37:33,781 - %(levlname)s - init bert model params
+2022-08-10 22:37:34,420 - %(levlname)s - init bert model params done
+2022-08-10 22:37:39,426 - %(levlname)s - ----- epoch1/30 -----
+2022-08-10 22:46:37,943 - %(levlname)s - trian_data_size:50000
+2022-08-10 22:46:37,943 - %(levlname)s - eval_data_size:5000
+2022-08-10 22:46:37,943 - %(levlname)s - label numbers:10
+2022-08-10 22:46:51,305 - %(levlname)s - init bert model params
+2022-08-10 22:46:51,949 - %(levlname)s - init bert model params done
+2022-08-10 22:46:57,065 - %(levlname)s - ----- epoch1/30 -----
+2022-08-10 22:53:27,921 - %(levlname)s - trian_data_size:50000
+2022-08-10 22:53:27,922 - %(levlname)s - eval_data_size:5000
+2022-08-10 22:53:27,922 - %(levlname)s - label numbers:10
+2022-08-10 22:53:40,974 - %(levlname)s - init bert model params
+2022-08-10 22:53:41,651 - %(levlname)s - init bert model params done
+2022-08-10 22:53:46,692 - %(levlname)s - ----- epoch1/30 -----
+2022-08-10 23:26:37,616 - %(levlname)s - trian_data_size:50000
+2022-08-10 23:26:37,617 - %(levlname)s - eval_data_size:5000
+2022-08-10 23:26:37,617 - %(levlname)s - label numbers:10
+2022-08-10 23:26:50,295 - %(levlname)s - init bert model params
+2022-08-10 23:26:50,940 - %(levlname)s - init bert model params done
+2022-08-10 23:26:55,999 - %(levlname)s - ----- epoch1/30 -----
+2022-08-11 09:20:36,974 - %(levlname)s - trian_data_size:50000
+2022-08-11 09:20:36,975 - %(levlname)s - eval_data_size:5000
+2022-08-11 09:20:36,975 - %(levlname)s - label numbers:10
+2022-08-11 09:20:53,336 - %(levlname)s - init bert model params
+2022-08-11 09:20:53,988 - %(levlname)s - init bert model params done
+2022-08-11 09:20:59,148 - %(levlname)s - ----- epoch1/30 -----
+2022-08-11 09:28:30,263 - %(levlname)s - trian_data_size:50000
+2022-08-11 09:28:30,263 - %(levlname)s - eval_data_size:5000
+2022-08-11 09:28:30,263 - %(levlname)s - label numbers:10
+2022-08-11 09:28:42,702 - %(levlname)s - init bert model params
+2022-08-11 09:28:43,370 - %(levlname)s - init bert model params done
+2022-08-11 09:28:48,469 - %(levlname)s - ----- epoch1/30 -----
+2022-08-11 21:31:23,159 - %(levlname)s - trian_data_size:50000
+2022-08-11 21:31:23,259 - %(levlname)s - eval_data_size:5000
+2022-08-11 21:31:23,259 - %(levlname)s - label numbers:10
+2022-08-11 21:31:55,906 - %(levlname)s - init bert model params
+2022-08-11 21:31:56,898 - %(levlname)s - init bert model params done
+2022-08-11 21:32:09,317 - %(levlname)s - ----- epoch1/30 -----
+2022-08-11 21:55:01,644 - %(levlname)s - trian_data_size:50000
+2022-08-11 21:55:01,644 - %(levlname)s - eval_data_size:5000
+2022-08-11 21:55:01,645 - %(levlname)s - label numbers:10
+2022-08-11 21:55:22,387 - %(levlname)s - init bert model params
+2022-08-11 21:55:23,258 - %(levlname)s - init bert model params done
+2022-08-11 21:55:30,367 - %(levlname)s - ----- epoch1/30 -----
+2022-08-11 21:56:08,091 - %(levlname)s - 
+
+2022-08-11 21:56:08,091 - %(levlname)s - trian: step:100, loss: 2.6170990467071533, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 21:56:08,091 - %(levlname)s - 
+
+2022-08-11 21:56:58,913 - %(levlname)s - 
+
+2022-08-11 21:56:58,914 - %(levlname)s - trian: step:200, loss: 2.180819034576416, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 21:56:58,914 - %(levlname)s - 
+
+2022-08-11 21:57:44,976 - %(levlname)s - 
+
+2022-08-11 21:57:44,977 - %(levlname)s - trian: step:300, loss: 2.3036746978759766, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 21:57:44,977 - %(levlname)s - 
+
+2022-08-11 21:58:26,865 - %(levlname)s - 
+
+2022-08-11 21:58:26,865 - %(levlname)s - trian: step:400, loss: 1.9012647867202759, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 21:58:26,866 - %(levlname)s - 
+
+2022-08-11 21:59:16,345 - %(levlname)s - 
+
+2022-08-11 21:59:16,345 - %(levlname)s - trian: step:500, loss: 1.4613494873046875, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 21:59:16,345 - %(levlname)s - 
+
+2022-08-11 22:00:10,060 - %(levlname)s - 
+
+2022-08-11 22:00:10,061 - %(levlname)s - trian: step:600, loss: 1.0169472694396973, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:00:10,061 - %(levlname)s - 
+
+2022-08-11 22:01:04,269 - %(levlname)s - 
+
+2022-08-11 22:01:04,270 - %(levlname)s - trian: step:700, loss: 1.7177724838256836, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:01:04,270 - %(levlname)s - 
+
+2022-08-11 22:01:57,490 - %(levlname)s - 
+
+2022-08-11 22:01:57,490 - %(levlname)s - trian: step:800, loss: 1.7371854782104492, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:01:57,490 - %(levlname)s - 
+
+2022-08-11 22:02:51,513 - %(levlname)s - 
+
+2022-08-11 22:02:51,513 - %(levlname)s - trian: step:900, loss: 1.2857716083526611, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:02:51,513 - %(levlname)s - 
+
+2022-08-11 22:03:44,114 - %(levlname)s - 
+
+2022-08-11 22:03:44,114 - %(levlname)s - trian: step:1000, loss: 1.207719087600708, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:03:44,115 - %(levlname)s - 
+
+2022-08-11 22:04:37,526 - %(levlname)s - 
+
+2022-08-11 22:04:37,526 - %(levlname)s - trian: step:1100, loss: 2.6631863117218018, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:04:37,526 - %(levlname)s - 
+
+2022-08-11 22:05:31,486 - %(levlname)s - 
+
+2022-08-11 22:05:31,486 - %(levlname)s - trian: step:1200, loss: 1.3840506076812744, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:05:31,486 - %(levlname)s - 
+
+2022-08-11 22:06:24,517 - %(levlname)s - 
+
+2022-08-11 22:06:24,517 - %(levlname)s - trian: step:1300, loss: 0.5326545834541321, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:06:24,517 - %(levlname)s - 
+
+2022-08-11 22:07:18,469 - %(levlname)s - 
+
+2022-08-11 22:07:18,470 - %(levlname)s - trian: step:1400, loss: 0.9496235251426697, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:07:18,470 - %(levlname)s - 
+
+2022-08-11 22:08:10,486 - %(levlname)s - 
+
+2022-08-11 22:08:10,486 - %(levlname)s - trian: step:1500, loss: 0.39955341815948486, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:08:10,487 - %(levlname)s - 
+
+2022-08-11 22:09:04,903 - %(levlname)s - 
+
+2022-08-11 22:09:04,903 - %(levlname)s - trian: step:1600, loss: 1.5795297622680664, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:09:04,903 - %(levlname)s - 
+
+2022-08-11 22:09:58,058 - %(levlname)s - 
+
+2022-08-11 22:09:58,059 - %(levlname)s - trian: step:1700, loss: 1.9103647470474243, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:09:58,059 - %(levlname)s - 
+
+2022-08-11 22:10:52,422 - %(levlname)s - 
+
+2022-08-11 22:10:52,422 - %(levlname)s - trian: step:1800, loss: 0.9546769857406616, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:10:52,422 - %(levlname)s - 
+
+2022-08-11 22:11:45,804 - %(levlname)s - 
+
+2022-08-11 22:11:45,804 - %(levlname)s - trian: step:1900, loss: 1.0635377168655396, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:11:45,805 - %(levlname)s - 
+
+2022-08-11 22:12:39,323 - %(levlname)s - 
+
+2022-08-11 22:12:39,323 - %(levlname)s - trian: step:2000, loss: 1.0953483581542969, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:12:39,323 - %(levlname)s - 
+
+2022-08-11 22:13:32,603 - %(levlname)s - 
+
+2022-08-11 22:13:32,603 - %(levlname)s - trian: step:2100, loss: 1.0079470872879028, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:13:32,603 - %(levlname)s - 
+
+2022-08-11 22:14:26,983 - %(levlname)s - 
+
+2022-08-11 22:14:26,983 - %(levlname)s - trian: step:2200, loss: 1.203675627708435, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:14:26,983 - %(levlname)s - 
+
+2022-08-11 22:15:20,531 - %(levlname)s - 
+
+2022-08-11 22:15:20,532 - %(levlname)s - trian: step:2300, loss: 0.609782874584198, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:15:20,532 - %(levlname)s - 
+
+2022-08-11 22:16:15,782 - %(levlname)s - 
+
+2022-08-11 22:16:15,782 - %(levlname)s - trian: step:2400, loss: 0.8679846525192261, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:16:15,783 - %(levlname)s - 
+
+2022-08-11 22:17:09,555 - %(levlname)s - 
+
+2022-08-11 22:17:09,555 - %(levlname)s - trian: step:2500, loss: 2.3112244606018066, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:17:09,555 - %(levlname)s - 
+
+2022-08-11 22:17:58,703 - %(levlname)s - 
+
+2022-08-11 22:17:58,704 - %(levlname)s - trian: step:2600, loss: 0.2389736920595169, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:17:58,704 - %(levlname)s - 
+
+2022-08-11 22:18:37,921 - %(levlname)s - 
+
+2022-08-11 22:18:37,921 - %(levlname)s - trian: step:2700, loss: 0.5041956305503845, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:18:37,921 - %(levlname)s - 
+
+2022-08-11 22:19:21,674 - %(levlname)s - 
+
+2022-08-11 22:19:21,675 - %(levlname)s - trian: step:2800, loss: 1.115625262260437, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:19:21,675 - %(levlname)s - 
+
+2022-08-11 22:24:28,743 - %(levlname)s - trian_data_size:50000
+2022-08-11 22:24:28,743 - %(levlname)s - eval_data_size:5000
+2022-08-11 22:24:28,744 - %(levlname)s - label numbers:10
+2022-08-11 22:24:44,062 - %(levlname)s - init bert model params
+2022-08-11 22:24:44,798 - %(levlname)s - init bert model params done
+2022-08-11 22:24:50,586 - %(levlname)s - ----- epoch1/1 -----
+2022-08-11 22:24:57,569 - %(levlname)s - trian: step:0, loss: 2.4422287940979004, acc:0.375, recall:0.0, pred:0.11666666666666665, f_beta:4.5
+2022-08-11 22:25:33,142 - %(levlname)s - 
+
+2022-08-11 22:25:33,143 - %(levlname)s - trian: step:100, loss: 2.190944194793701, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:25:33,143 - %(levlname)s - 
+
+2022-08-11 22:25:48,546 - %(levlname)s - trian: step:100, loss: 2.2909693717956543, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:26:23,898 - %(levlname)s - 
+
+2022-08-11 22:26:23,898 - %(levlname)s - trian: step:200, loss: 1.7030291557312012, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:26:23,898 - %(levlname)s - 
+
+2022-08-11 22:26:39,787 - %(levlname)s - trian: step:200, loss: 1.7010725736618042, acc:0.375, recall:0.0, pred:0.15, f_beta:4.5
+2022-08-11 22:27:15,385 - %(levlname)s - 
+
+2022-08-11 22:27:15,385 - %(levlname)s - trian: step:300, loss: 2.4105215072631836, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:27:15,385 - %(levlname)s - 
+
+2022-08-11 22:27:31,517 - %(levlname)s - trian: step:300, loss: 1.5785620212554932, acc:0.625, recall:0.0, pred:0.25, f_beta:4.5
+2022-08-11 22:28:07,249 - %(levlname)s - 
+
+2022-08-11 22:28:07,249 - %(levlname)s - trian: step:400, loss: 0.9895481467247009, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:28:07,249 - %(levlname)s - 
+
+2022-08-11 22:28:23,437 - %(levlname)s - trian: step:400, loss: 1.012406587600708, acc:0.875, recall:1.0, pred:0.55, f_beta:4.5
+2022-08-11 22:28:59,279 - %(levlname)s - 
+
+2022-08-11 22:28:59,279 - %(levlname)s - trian: step:500, loss: 0.9238479733467102, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:28:59,279 - %(levlname)s - 
+
+2022-08-11 22:29:15,627 - %(levlname)s - trian: step:500, loss: 1.6274346113204956, acc:0.5, recall:0.5, pred:0.3, f_beta:4.5
+2022-08-11 22:29:51,558 - %(levlname)s - 
+
+2022-08-11 22:29:51,558 - %(levlname)s - trian: step:600, loss: 0.6944980621337891, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:29:51,558 - %(levlname)s - 
+
+2022-08-11 22:30:07,812 - %(levlname)s - trian: step:600, loss: 0.6423641443252563, acc:0.875, recall:0.0, pred:0.55, f_beta:4.5
+2022-08-11 22:30:43,844 - %(levlname)s - 
+
+2022-08-11 22:30:43,844 - %(levlname)s - trian: step:700, loss: 1.6003187894821167, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:30:43,844 - %(levlname)s - 
+
+2022-08-11 22:31:00,029 - %(levlname)s - trian: step:700, loss: 1.1452630758285522, acc:0.5, recall:0.5, pred:0.2, f_beta:4.5
+2022-08-11 22:31:37,683 - %(levlname)s - 
+
+2022-08-11 22:31:37,683 - %(levlname)s - trian: step:800, loss: 1.8982013463974, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:31:37,683 - %(levlname)s - 
+
+2022-08-11 22:31:58,189 - %(levlname)s - trian: step:800, loss: 1.7667462825775146, acc:0.5, recall:0.0, pred:0.2333333333333333, f_beta:4.5
+2022-08-11 22:32:44,578 - %(levlname)s - 
+
+2022-08-11 22:32:44,579 - %(levlname)s - trian: step:900, loss: 1.4984126091003418, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:32:44,579 - %(levlname)s - 
+
+2022-08-11 22:33:06,707 - %(levlname)s - trian: step:900, loss: 1.3952711820602417, acc:0.625, recall:0.0, pred:0.25, f_beta:4.5
+2022-08-11 22:33:48,774 - %(levlname)s - 
+
+2022-08-11 22:33:48,775 - %(levlname)s - trian: step:1000, loss: 0.8662075996398926, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:33:48,775 - %(levlname)s - 
+
+2022-08-11 22:34:08,372 - %(levlname)s - trian: step:1000, loss: 1.204975962638855, acc:0.625, recall:0.0, pred:0.45, f_beta:4.5
+2022-08-11 22:34:45,388 - %(levlname)s - 
+
+2022-08-11 22:34:45,389 - %(levlname)s - trian: step:1100, loss: 0.7460238933563232, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:34:45,389 - %(levlname)s - 
+
+2022-08-11 22:35:05,171 - %(levlname)s - trian: step:1100, loss: 0.9646410942077637, acc:0.875, recall:0.75, pred:0.3, f_beta:4.5
+2022-08-11 22:35:46,551 - %(levlname)s - 
+
+2022-08-11 22:35:46,551 - %(levlname)s - trian: step:1200, loss: 1.0731546878814697, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:35:46,551 - %(levlname)s - 
+
+2022-08-11 22:36:06,337 - %(levlname)s - trian: step:1200, loss: 1.161907434463501, acc:0.75, recall:0.0, pred:0.4, f_beta:4.5
+2022-08-11 22:36:53,466 - %(levlname)s - 
+
+2022-08-11 22:36:53,466 - %(levlname)s - trian: step:1300, loss: 0.5529530644416809, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:36:53,466 - %(levlname)s - 
+
+2022-08-11 22:37:13,380 - %(levlname)s - trian: step:1300, loss: 0.8328993320465088, acc:0.75, recall:1.0, pred:0.45, f_beta:4.5
+2022-08-11 22:37:55,829 - %(levlname)s - 
+
+2022-08-11 22:37:55,829 - %(levlname)s - trian: step:1400, loss: 2.0038836002349854, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:37:55,829 - %(levlname)s - 
+
+2022-08-11 22:38:15,252 - %(levlname)s - trian: step:1400, loss: 0.678982138633728, acc:0.875, recall:0.0, pred:0.55, f_beta:4.5
+2022-08-11 22:38:55,490 - %(levlname)s - 
+
+2022-08-11 22:38:55,490 - %(levlname)s - trian: step:1500, loss: 0.7114892601966858, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:38:55,490 - %(levlname)s - 
+
+2022-08-11 22:39:16,063 - %(levlname)s - trian: step:1500, loss: 0.9908564686775208, acc:0.75, recall:1.0, pred:0.5, f_beta:4.5
+2022-08-11 22:39:58,861 - %(levlname)s - 
+
+2022-08-11 22:39:58,861 - %(levlname)s - trian: step:1600, loss: 0.5832430720329285, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:39:58,862 - %(levlname)s - 
+
+2022-08-11 22:40:18,576 - %(levlname)s - trian: step:1600, loss: 1.2368361949920654, acc:0.625, recall:0.0, pred:0.31666666666666665, f_beta:4.5
+2022-08-11 22:41:00,118 - %(levlname)s - 
+
+2022-08-11 22:41:00,118 - %(levlname)s - trian: step:1700, loss: 1.803876280784607, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:41:00,118 - %(levlname)s - 
+
+2022-08-11 22:41:18,403 - %(levlname)s - trian: step:1700, loss: 0.7109490633010864, acc:0.75, recall:1.0, pred:0.4, f_beta:4.5
+2022-08-11 22:41:58,601 - %(levlname)s - 
+
+2022-08-11 22:41:58,601 - %(levlname)s - trian: step:1800, loss: 0.7646319270133972, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:41:58,601 - %(levlname)s - 
+
+2022-08-11 22:42:19,765 - %(levlname)s - trian: step:1800, loss: 1.45598304271698, acc:0.625, recall:0.0, pred:0.35, f_beta:4.5
+2022-08-11 22:43:01,223 - %(levlname)s - 
+
+2022-08-11 22:43:01,223 - %(levlname)s - trian: step:1900, loss: 0.34865841269493103, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:43:01,224 - %(levlname)s - 
+
+2022-08-11 22:43:19,562 - %(levlname)s - trian: step:1900, loss: 0.20547297596931458, acc:1.0, recall:1.0, pred:0.6, f_beta:4.5
+2022-08-11 22:43:59,599 - %(levlname)s - 
+
+2022-08-11 22:43:59,599 - %(levlname)s - trian: step:2000, loss: 1.3537958860397339, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:43:59,599 - %(levlname)s - 
+
+2022-08-11 22:44:18,225 - %(levlname)s - trian: step:2000, loss: 0.42353981733322144, acc:0.875, recall:1.0, pred:0.55, f_beta:4.5
+2022-08-11 22:44:57,630 - %(levlname)s - 
+
+2022-08-11 22:44:57,630 - %(levlname)s - trian: step:2100, loss: 0.2589968144893646, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:44:57,630 - %(levlname)s - 
+
+2022-08-11 22:45:17,897 - %(levlname)s - trian: step:2100, loss: 1.2986807823181152, acc:0.5, recall:0.0, pred:0.4, f_beta:4.5
+2022-08-11 22:45:57,541 - %(levlname)s - 
+
+2022-08-11 22:45:57,541 - %(levlname)s - trian: step:2200, loss: 1.234089732170105, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:45:57,541 - %(levlname)s - 
+
+2022-08-11 22:46:16,578 - %(levlname)s - trian: step:2200, loss: 1.199337124824524, acc:0.625, recall:0.0, pred:0.4, f_beta:4.5
+2022-08-11 22:46:56,302 - %(levlname)s - 
+
+2022-08-11 22:46:56,302 - %(levlname)s - trian: step:2300, loss: 0.9235227704048157, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:46:56,302 - %(levlname)s - 
+
+2022-08-11 22:47:16,817 - %(levlname)s - trian: step:2300, loss: 0.4128219485282898, acc:1.0, recall:1.0, pred:0.6, f_beta:4.5
+2022-08-11 22:47:57,720 - %(levlname)s - 
+
+2022-08-11 22:47:57,720 - %(levlname)s - trian: step:2400, loss: 1.1362597942352295, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:47:57,720 - %(levlname)s - 
+
+2022-08-11 22:48:15,710 - %(levlname)s - trian: step:2400, loss: 0.8463900089263916, acc:0.625, recall:0.0, pred:0.35, f_beta:4.5
+2022-08-11 22:48:56,507 - %(levlname)s - 
+
+2022-08-11 22:48:56,507 - %(levlname)s - trian: step:2500, loss: 0.7011168599128723, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:48:56,507 - %(levlname)s - 
+
+2022-08-11 22:49:15,586 - %(levlname)s - trian: step:2500, loss: 0.6637426018714905, acc:0.875, recall:0.6666666666666667, pred:0.5, f_beta:4.5
+2022-08-11 22:49:59,083 - %(levlname)s - 
+
+2022-08-11 22:49:59,083 - %(levlname)s - trian: step:2600, loss: 1.0912551879882812, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:49:59,083 - %(levlname)s - 
+
+2022-08-11 22:50:18,571 - %(levlname)s - trian: step:2600, loss: 1.2862669229507446, acc:0.625, recall:1.0, pred:0.3, f_beta:4.5
+2022-08-11 22:50:59,461 - %(levlname)s - 
+
+2022-08-11 22:50:59,461 - %(levlname)s - trian: step:2700, loss: 1.1850391626358032, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:50:59,461 - %(levlname)s - 
+
+2022-08-11 22:51:18,799 - %(levlname)s - trian: step:2700, loss: 0.21418535709381104, acc:1.0, recall:0.0, pred:0.6, f_beta:4.5
+2022-08-11 22:51:59,350 - %(levlname)s - 
+
+2022-08-11 22:51:59,350 - %(levlname)s - trian: step:2800, loss: 0.7347279787063599, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:51:59,350 - %(levlname)s - 
+
+2022-08-11 22:52:17,074 - %(levlname)s - trian: step:2800, loss: 1.195143461227417, acc:0.75, recall:0.0, pred:0.55, f_beta:4.5
+2022-08-11 22:53:00,507 - %(levlname)s - 
+
+2022-08-11 22:53:00,507 - %(levlname)s - trian: step:2900, loss: 0.609756350517273, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:53:00,507 - %(levlname)s - 
+
+2022-08-11 22:53:20,155 - %(levlname)s - trian: step:2900, loss: 0.7827807664871216, acc:0.75, recall:0.0, pred:0.4, f_beta:4.5
+2022-08-11 22:54:03,438 - %(levlname)s - 
+
+2022-08-11 22:54:03,438 - %(levlname)s - trian: step:3000, loss: 0.3153845965862274, acc:0.0, recall:0.0, pred:0.0, f_beta:4.5
+2022-08-11 22:54:03,438 - %(levlname)s - 
+
+2022-08-11 22:54:22,200 - %(levlname)s - trian: step:3000, loss: 0.2582322955131531, acc:1.0, recall:1.0, pred:0.6, f_beta:4.5
