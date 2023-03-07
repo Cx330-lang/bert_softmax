@@ -172,8 +172,8 @@ class Trainer(object):
                             pred_y = eval_preditions[:sample_num]
 
                             eval_losses.append(eval_losse)
-                            eval_preds.append(pred_y)
-                            eval_labels.append(true_y)
+                            eval_preds.extend(pred_y)
+                            eval_labels.extend(true_y)
 
                         acc, recall, prec, f_beta = get_multi_metrics(
                             pred_y=eval_preds, true_y=eval_labels, labels=self.label_list
